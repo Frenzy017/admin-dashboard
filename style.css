@@ -190,8 +190,6 @@ body {
 }
 
 .trending > label {
-    display: flex;
-    justify-content: center;
     font-family: 'Exo 2', sans-serif;
     font-family: 'Teko', sans-serif;
     font-size: 50px;
@@ -199,19 +197,23 @@ body {
 
 .trending {
     display: flex;
-    justify-content: center;
-    align-content: center;
+    align-items: flex-start;
     margin-top: 40px;
+    margin-right: 20px;
     gap: 10px;
     outline: solid;
-    outline-offset: 20px;
+    outline-offset: 5px;
     border-radius: 20px;
 }
 
 .user {
     font-family: 'Exo 2', sans-serif;
     font-family: 'Teko', sans-serif;
-    font-size: 30px;;
+    font-size: 30px;
+}
+
+.user > label {
+    display: flex;
 }
 
 .user > p {
