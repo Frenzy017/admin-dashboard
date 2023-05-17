@@ -22,7 +22,7 @@ I struggled with the labels on the trending section where the users labels were 
 
 ## Links
 
-- [Live Demo](https://frenzy017.github.io/admin-dashboard/)
+- [Live Demo](https://frenzy017.github.io/admin-dashboard/) / [Code](https://github.com/Frenzy017/admin-dashboard)
 
 ## Screenshots
 
