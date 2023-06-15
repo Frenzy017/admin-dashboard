@@ -1,9 +1,8 @@
-
-
 body {
     background-image: linear-gradient(#cffafe, #ccfbf1);
     min-height: 100vh;
     min-width: 100vh;
+    overflow: hidden;
 }
 
 .container {
@@ -11,7 +10,6 @@ body {
     grid-template-columns: 1fr 8fr;
     grid-template-rows: auto;
 }
-
 
 .sidebar {
     background-color: #67e8f9;
@@ -231,8 +229,4 @@ body {
     font-family: 'Exo 2', sans-serif;
     font-family: 'Teko', sans-serif;
     font-size: 30px;
-
-
 }
-
-
